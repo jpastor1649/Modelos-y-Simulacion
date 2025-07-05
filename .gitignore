@@ -39,3 +39,106 @@
 
 # debug information files
 *.dwo
+
+##############################
+# SISTEMA Y EDITORES COMUNES
+##############################
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VS Code
+.vscode/
+
+# Archivos temporales
+*.tmp
+*.bak
+*.log
+*.swp
+*~
+
+##############################
+# PYTHON
+##############################
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+.env
+.venv
+venv/
+
+##############################
+# C++
+##############################
+*.o
+*.obj
+*.exe
+*.dll
+*.out
+*.so
+*.a
+*.class
+*.cpp.bak
+*.h.bak
+*.gch
+
+##############################
+# NETLOGO
+##############################
+*.nlogo~
+*.nls
+*.csv~
+*.txt~
+
+##############################
+# ANYLOGIC
+##############################
+*.class
+*.bak
+*.log
+*.alp~      # respaldo temporal
+*.java~     # respaldo temporal
+.idea/
+out/
+build/
+target/
+bin/
+
+##############################
+# VENSIM
+##############################
+*.vdf
+*.vdfx
+*.lst
+*.cin
+*.mdl~
+*.out
+*.bak
+*.log
+*.vpm
+*.VDP
+
+##############################
+# PROMODEL (estimado por extensiones comunes)
+##############################
+*.bak
+*.tmp
+*.log
+*.rpt
+*.sim
+*.prj
+*.res
+*.pmd      # archivo modelo
+*.pms      # archivo de simulación
+*.pmr      # resultados
+*.pmo      # output
+*.pmi      # input
+
+
