@@ -23,4 +23,4 @@ Repositorio correspondiente a la materia **Modelos y Simulación** de la Univers
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/jpastor1649/modsim-unal-2025-1.git
+   git clone https://github.com/jpastor1649/Modelos-y-Simulacion-2025I.git
